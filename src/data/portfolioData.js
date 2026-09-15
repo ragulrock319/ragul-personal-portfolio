@@ -1,3 +1,5 @@
+import avatarImage from '../assets/avatar.png';
+
 export const personalInfo = {
   name: "Ragul E",
   title: "Software Developer Intern",
@@ -16,8 +18,8 @@ export const personalInfo = {
     "Web Developer"
   ],
   bio: "B.Sc Information Technology student at KPR College of Arts Science and Research, Coimbatore (2024–2027), CGPA 6.7. Passionate about Java, web development, and DSA, actively building projects to grow as a software developer.",
-  avatar: "/avatar.png",
-  resumeUrl: "/Ragul_E_Resume.pdf"
+  avatar: avatarImage,
+  resumeUrl: "./Ragul_E_Resume.pdf"
 };
 
 export const skills = [
