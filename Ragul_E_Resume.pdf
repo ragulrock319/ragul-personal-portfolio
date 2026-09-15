@@ -1,0 +1,165 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 4 0 R
+      /F2 5 0 R
+    >>
+  >>
+  /MediaBox [0 0 612 792]
+  /Contents 6 0 R
+>>
+endobj
+
+4 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica-Bold
+>>
+endobj
+
+5 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj
+<< /Length 1200 >>
+stream
+BT
+/F1 24 Tf
+50 740 Td
+(Ragul E) Tj
+
+/F2 10 Tf
+0 -18 Td
+(Phone: 07358561577  |  Email: ragulrock319@gmail.com  |  LinkedIn: ragule-dev  |  GitHub: ragulrock319) Tj
+
+0 -30 Td
+/F1 14 Tf
+(SKILLS) Tj
+0 -5 Td
+(_________________________________________________________________________________) Tj
+0 -18 Td
+/F2 10 Tf
+(- Programming: Java) Tj
+0 -14 Td
+(- Frontend: HTML, CSS) Tj
+0 -14 Td
+(- Backend: Node.js) Tj
+0 -14 Td
+(- Database: MySQL) Tj
+0 -14 Td
+(- Core Concepts: Data Structures & Algorithms (DSA)) Tj
+
+0 -30 Td
+/F1 14 Tf
+(PROJECTS) Tj
+0 -5 Td
+(_________________________________________________________________________________) Tj
+0 -18 Td
+/F1 11 Tf
+(Personal Portfolio Website) Tj
+0 -14 Td
+/F2 10 Tf
+(Tech: HTML, CSS, JavaScript) Tj
+0 -14 Td
+(- Developed a responsive personal portfolio website to showcase projects, skills, and achievements.) Tj
+0 -14 Td
+(- Implemented clean UI design and optimized layout for better user experience across devices.) Tj
+0 -14 Td
+(- Integrated project links and GitHub repositories for easy access and demonstration.) Tj
+
+0 -22 Td
+/F1 11 Tf
+(DSA Problem Solver Application) Tj
+0 -14 Td
+/F2 10 Tf
+(Tech: Java) Tj
+0 -14 Td
+(- Built a Java-based application to practice and demonstrate common data structure & algorithm problems.) Tj
+0 -14 Td
+(- Implemented algorithms including array manipulation, string processing, and searching techniques.) Tj
+0 -14 Td
+(- Improved problem-solving ability by applying optimized logic and efficient coding practices.) Tj
+
+0 -30 Td
+/F1 14 Tf
+(EXPERIENCE) Tj
+0 -5 Td
+(_________________________________________________________________________________) Tj
+0 -18 Td
+/F1 11 Tf
+(Fresher - Software Developer Intern (Open to Opportunities)) Tj
+0 -14 Td
+/F2 10 Tf
+(- Actively building projects and improving practical knowledge in Java, Web Development, and DSA.) Tj
+0 -14 Td
+(- Practicing coding problems and developing small applications to strengthen programming skills.) Tj
+0 -14 Td
+(- Learning backend development using Node.js and database management with MySQL.) Tj
+
+0 -30 Td
+/F1 14 Tf
+(ACHIEVEMENTS) Tj
+0 -5 Td
+(_________________________________________________________________________________) Tj
+0 -18 Td
+/F2 10 Tf
+(- Secured Third Place in an Inter College Hackathon by developing a creative technical solution with a team.) Tj
+
+0 -30 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -5 Td
+(_________________________________________________________________________________) Tj
+0 -18 Td
+/F1 11 Tf
+(KPR College of Arts Science and Research, Coimbatore, India (2024 - 2027)) Tj
+0 -14 Td
+/F2 10 Tf
+(B.Sc Information Technology -- CGPA: 6.7) Tj
+
+ET
+endstream
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000262 00000 n 
+0000000333 00000 n 
+0000000399 00000 n 
+trailer
+<<
+  /Size 7
+  /Root 1 0 R
+>>
+startxref
+1650
+%%EOF
