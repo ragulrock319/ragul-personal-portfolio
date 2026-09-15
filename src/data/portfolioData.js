@@ -6,7 +6,7 @@ export const personalInfo = {
   email: "ragulrock319@gmail.com",
   username: "ragule-dev",
   github: "ragulrock319",
-  githubUrl: "https://github.com/ragulrock319",
+  githubUrl: "https://github.com/ragulrock319/ragul-personal-portfolio",
   linkedinUrl: "https://linkedin.com/in/ragule-dev",
   location: "Coimbatore, India",
   tagline: "B.Sc IT student passionate about Java, web development, and DSA, actively building projects to grow as a software developer.",
